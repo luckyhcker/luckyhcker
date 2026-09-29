@@ -1,6 +1,6 @@
 <div align="center">
 
-${\color{#e4f6fc}\textsf{Spamm acc, please follow}}$ [main](https://github.com/puphacker)
+${\color{#e4f6fc}\textsf{Spamm acc, please follow}}$ [main](https://github.com/icedpuppy)
 
 ${\color{#e4f6fc}\textsf{and also follow my}}$ [hubby!](https://github.com/0SEVN7)
 
